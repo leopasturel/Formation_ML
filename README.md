@@ -4,7 +4,9 @@
 Projects done during my OpenClassrooms formation as a Machine Learning Engineer
 
 Here you will find different projects that I have done during my formation. Feel free to browse! :)
+
 My codes were initially done in Spyder using Python 3.9 before I exported them in a Notebook format.
+
 
 
 * PROJECT 2:
